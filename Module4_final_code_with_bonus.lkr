@@ -1,0 +1,6 @@
+path=C:\CrossIDE\Call51\Bin\..\lib\small
+lib=libc51.lib
+lib=libint.lib
+lib=liblong.lib
+lib=libfloat.lib
+obj=Module4_final_code_with_bonus.obj
